@@ -1,10 +1,19 @@
+<script setup>
+
+
+</script>
 <template>
   
   <div class="navbar bg-base-100">
   <div class="flex-1">
     <a class="btn btn-ghost normal-case text-xl">TeloSphere</a>
   </div>
-  <div class="flex-none">
+  <div class="flex-1 gap-2">
+    <div class="form-control w-full">
+      <input type="text" placeholder="Search" class="input input-bordered w-full" />
+    </div>
+    </div>
+  <div class="flex-1 justify-end">
     <div class="dropdown dropdown-end">
       <label tabindex="0" class="btn btn-ghost btn-circle">
         <div class="indicator">
@@ -22,6 +31,7 @@
         </div>
       </div>
     </div>
+   
     <div class="dropdown dropdown-end">
       <label tabindex="0" class="btn btn-ghost btn-circle avatar">
         <div class="w-10 rounded-full">
