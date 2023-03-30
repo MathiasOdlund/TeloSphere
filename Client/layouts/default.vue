@@ -1,7 +1,8 @@
 <template>
   <Navbar />
-<div class="h-[90vh]">
+  <div class="mb-10">
     <slot />
-</div>
+  </div>
+
   <Footer />
 </template>
