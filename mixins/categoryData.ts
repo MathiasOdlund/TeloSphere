@@ -1,8 +1,6 @@
 import CategoryType from "~/types/categoryType";
 import cate_img_1 from "~/assets/img/safe.png";
-import cate_img_2 from "~/assets/img/shop/banner/banner-sm-1.jpg";
-import cate_img_3 from "~/assets/img/shop/banner/banner-sm-1.jpg";
-import cate_img_4 from "~/assets/img/shop/banner/banner-sm-1.jpg";
+
 export default {
   data() {
     return {
@@ -15,19 +13,19 @@ export default {
         },
         {
           id: 2,
-          img: cate_img_2,
+          img: cate_img_1,
           parentTitle: "Accessories",
           children: ["Decoration", "Accessories"],
         },
         {
           id: 3,
-          img: cate_img_3,
+          img: cate_img_1,
           parentTitle: "Phones",
           children: ["Iphone", "Samsung"],
         },
         {
           id: 4,
-          img: cate_img_4,
+          img: cate_img_1,
           parentTitle: "Accessories",
           children: ["cables", "headphones"],
           smDesc:
