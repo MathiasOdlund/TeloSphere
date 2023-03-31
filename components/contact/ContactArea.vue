@@ -21,12 +21,10 @@
               </li>
             </ul>
             <p>
-              Telosphere is a premium Templates theme with advanced admin
-              module. It’s extremely customizable, easy to use and fully
-              responsive and retina ready. Vel illum dolore eu feugiat nulla
-              facilisis at vero eros et accumsan et iusto odio dignissim qui
-              blandit praesent luptatum zzril delenit augue duis dolore te
-              feugait nulla facilisi.
+              TeloSphere is a web store project that offers a range of products
+              including phones, Telenor subscriptions, and peripherals. The
+              store is developed using TypeScript, Nuxt Js, Vue.Js, and
+              Tailwindcss to provide a modern and intuitive shopping experience.
             </p>
 
             <div class="contact__social">
