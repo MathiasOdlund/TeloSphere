@@ -1,42 +1,20 @@
-# Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# TeloSphere
 
-## Setup
+TeloSphere is a web store project that offers a range of products including phones, Telenor subscriptions, and peripherals. The store is developed using TypeScript, Nuxt Js, Vue.Js, and Tailwindcss to provide a modern and intuitive shopping experience. Customers can browse through the store's product catalog and add items to their cart, while also having the ability to create an account to track their order history and save their preferences. The store also offers various payment methods, including credit card and PayPal, to ensure a smooth checkout process. With its sleek design and user-friendly interface, TeloSphere aims to provide customers with a seamless online shopping experience for their technology needs
 
-Make sure to install the dependencies:
 
-```bash
-# yarn
-yarn install
+## Demo
 
-# npm
-npm install
+https://telo-sphere.vercel.app/
 
-# pnpm
-pnpm install
-```
 
-## Development Server
+## Authors
 
-Start the development server on http://localhost:3000
+- [@MathiasOdlund](https://github.com/MathiasOdlund)
 
-```bash
-npm run dev
-```
 
-## Production
+## Feedback
 
-Build the application for production:
+If you have any feedback, please reach out to me at mathias@odlund.no
 
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
