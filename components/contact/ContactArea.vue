@@ -63,17 +63,17 @@ export default defineComponent({
       {
         icon: "fal fa-map-marker-alt",
         title: "Address",
-        subtitle: "9517, Alta.",
+        subtitle: "3842, Tonsberg.",
       },
       {
         icon: "fal fa-envelope-open-text",
         title: "Email",
-        subtitle: "mathias@odlund.no",
+        subtitle: "thomas@14.no",
       },
       {
         icon: "fal fa-phone-alt",
         title: "Number Phone",
-        subtitle: "(47) 909 14 555",
+        subtitle: "(47) 322 39 999",
       },
     ] as InfoData[];
     return { contactInfo };
